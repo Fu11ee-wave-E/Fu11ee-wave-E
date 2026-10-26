@@ -1,12 +1,12 @@
 ## Hi there, I am Fulden 👋
 
-### Data Scientist | Machine Learning Engineer | Physicist
+### Data Scientist | Physicist
 
 I bridge the gap between complex datasets and actionable insights. My expertise lies in building end-to-end machine learning pipelines, statistical modeling, and data architecture.
 
-- 🔭 I’m currently working on: **Fine-tuning LLMs for financial sentiment classification**
-- 🌱 I’m currently learning: **Advanced pipelines and **
-- 💬 Talk to me about: **Deep Learning, Feature Engineering, Bayesian Statistics**
+- 🔭 I’ve recently worked on: **Financial sentiment analysis using LLMs**
+- 🌱 I’m currently learning: **Pipelines for geospatial data analysis**
+- 💬 Talk to me about: **Climate Tech, Deep Learning, Bayesian Statistics**
 
 ---
 
@@ -14,9 +14,9 @@ I bridge the gap between complex datasets and actionable insights. My expertise 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://shields.io) ![MATLAB](https://shields.io) |
-| **ML/DL Frameworks** | ![PyTorch](https://shields.io) ![Scikit-Learn](https://shields.io) ![TensorFlow](https://shields.io) |
-| **Analytics & BI** | ![Pandas](https://shields.io) |
+| **Languages** | Python, Matlab |
+| **ML/DL Frameworks** |Scikit-Learn, SciPy, NumPy, TensorFlow, PyTorch|
+| **Analytics & BI** |Pandas|
 
 ---
 
@@ -34,14 +34,7 @@ I bridge the gap between complex datasets and actionable insights. My expertise 
 - **Impact & Metrics:** Latency **< 45ms** per query token; **MAP@10 score improved by 28%** over lexical baselines.
 - **Repository:** [View Code & Demo](https://github.com)
 
----
 
-### 📊 GitHub Ecosystem Activity
-<!-- Replace 'yourusername' with your actual GitHub username below -->
-![Your GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
----
 
 ### 🌐 Where to Find Me
 [![LinkedIn](https://shields.io)](https://linkedin.com)
