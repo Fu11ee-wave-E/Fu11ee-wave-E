@@ -48,4 +48,4 @@ analyses and produced visualisations using PCA and t-SNE.
 - **Repository:** [View Code & Learn More](https://github.com/Fu11ee-wave-E/Detecting_Anomalous_Activity_of_a_Ship_Engine.git)
 
 ### 🌐 Where to Find Me
-[![LinkedIn]( https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/fulden-eratam-phd-810590243)
+[![LinkedIn]( https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/fulden-eratam-phd-810590243)
