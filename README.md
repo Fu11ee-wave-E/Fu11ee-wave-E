@@ -47,7 +47,5 @@ analyses and produced visualisations using PCA and t-SNE.
 - **Impact & Metrics:** Determined the flagged feature threshold required for a true anomaly and accounted for roughly 37% of variance in the dataset.
 - **Repository:** [View Code & Learn More](https://github.com/Fu11ee-wave-E/Detecting_Anomalous_Activity_of_a_Ship_Engine.git)
 
-
-
 ### 🌐 Where to Find Me
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn]( https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/fulden-eratam-phd-810590243)
