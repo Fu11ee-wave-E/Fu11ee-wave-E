@@ -5,7 +5,7 @@
 I bridge the gap between complex datasets and actionable insights. My expertise lies in building end-to-end machine learning pipelines, statistical modeling, and data architecture.
 
 - 🔭 I’ve recently worked on: **Financial sentiment analysis using LLMs**
-- 🌱 I’m currently learning: **Pipelines for geospatial data analysis with SQL implementations**
+- 🌱 I’m currently learning: **Pipelines for visual data analysis with SQL implementations**
 - 💬 Talk to me about: **Climate Tech, Deep Learning, Bayesian Statistics**
 
 ---
